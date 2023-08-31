@@ -11,7 +11,12 @@
         android:clickable="true"
         android:focusable="true"
         android:checkable="true"
-        android:id="@+id/"
-
+        android:id="@+id/cadAeroModelos">
+        
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+        
+    </com.google.android.material.card.MaterialCardView>
 
 </LinearLayout>
